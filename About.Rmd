@@ -29,3 +29,5 @@ Learn the basics of statistics and how to apply in psychology,
 - 我對這門課的期望？
 
 Be able to understand the data science and be familiar with the tools.
+
+
